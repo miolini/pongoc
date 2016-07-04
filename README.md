@@ -7,7 +7,7 @@ Console tool for compile template from stdin to stdout with env variables as con
 == Install ==
 
 ```
-$ go go github.com/miolini/pongoc
+$ go get github.com/miolini/pongoc
 ```
 
 == Run ==
