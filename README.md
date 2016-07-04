@@ -1,16 +1,16 @@
-= pongoc
+= pongoc =
 
-== About
+== About ==
 
 Console tool for compile template from stdin to stdout with env variables as context.
 
-== Install
+== Install ==
 
 ```
 $ go go github.com/miolini/pongoc
 ```
 
-== Run
+== Run ==
 
 ```
 $ ES_CLUSTER_NAME=skynet_logs pongoc < template.txt > result.txt
